@@ -1,0 +1,48 @@
+gender == 0: Trái Đất
+gender == 1: Namec
+gender == 2: Xayda
+
+
+Add Clan to DB
+ClanDAO.create(newClan);
+
+
+// up tiem nang suc manh
+
+
+//GOKU DOI YARDRAT
+
+
+mọi menu nằm của NPC đều nằm trong Menu.java
+
+
+
+// Skill Kamejoko của đệ tử
+{"gender":0,"id":8,"tempid":1,"point":1}
+
+
+// TI LE ROT DO THAN
+
+
+hoiSinhDetu.schedule(hsDetu, 5000);
+
+
+TabItemShop[] test = Shop.getTabShop(21, 0).toArray(new TabItemShop[0]);
+GameScr.UIshop(player, test);
+
+
+openUINpc
+
+
+// THOI GIAN MO MABU 12h
+
+
+INIT KHI GA
+INIT DOANH TRAI
+INIT BDKB x = 100; y = 100
+
+
+UpdateSMTN
+
+
+Cách add thông số cho đồ: vào //END KHI GA mà xem =))
